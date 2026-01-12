@@ -55,6 +55,11 @@
  ![](https://github-profile-trophy.vercel.app/?username=IT22052124&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
 
+<img src="https://komarev.com/ghpvc/?username=Shukry7&style=pixel" width="0" height="0" />
+<img src="https://komarev.com/ghpvc/?username=Shukry7&style=pixel" width="0" height="0" />
+<img src="https://komarev.com/ghpvc/?username=Shukry7&style=pixel" width="0" height="0" />
+<img src="https://komarev.com/ghpvc/?username=Shukry7&style=pixel" width="0" height="0" />
+<img src="https://komarev.com/ghpvc/?username=Shukry7&style=pixel" width="0" height="0" />
 <!--## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/IT22052124/IT22052124/output/github-contribution-grid-snake-dark.svg)
 -->
