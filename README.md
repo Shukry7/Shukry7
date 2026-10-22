@@ -86,6 +86,13 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white)
 
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/shukry7/shukry7/main/.github/shukry-macbook.gif"
+  width="320"
+  alt="Shukry coding on a MacBook"
+/>
+
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
@@ -130,6 +137,8 @@
 -->
 
 ## Contributions
+
+<br clear="all">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shukry7/Shukry7/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shukry7/Shukry7/output/pacman-contribution-graph.svg">
