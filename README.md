@@ -7,7 +7,7 @@
 <!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p> -->
-[![MasterHead](https://i.imgur.com/1ZvVkDc.gif)]()
+<img src="https://raw.githubusercontent.com/shukry7/shukry7/main/.github/header.gif" width="100%" alt="Profile Header">
 
 
 <h1 align="center"> Hi 👋🏻, I'm Shukry </br> 
@@ -38,7 +38,7 @@
 </p>
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/IT22052124/IT22052124/main/.github/gojo.gif" width="140" align="right">
+<img src="https://raw.githubusercontent.com/shukry7/shukry7/main/.github/side%20.gif" width="140" align="right" alt="Side Animation"> 
 <h3 align="left">Languages and Tools:</h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
